@@ -8,7 +8,7 @@ Vanilla Resonite hardcodes contact ordering. This mod makes every status priorit
 
 - **Configurable sort priority** for every online status: Online, Sociable, Away, Busy, Offline, Headless, Incoming Requests
 - **Lower number = higher in list** - set any status to 0 to pin it to the top
-- All settings accessible via the in-game mod settings panel
+- All settings accessible via the in-game [mod settings panel](https://github.com/badhaloninja/ResoniteModSettings)
 
 ## Default sort order
 
@@ -28,4 +28,4 @@ Vanilla Resonite hardcodes contact ordering. This mod makes every status priorit
 1. Install [ResoniteModLoader](https://github.com/resonite-modding-group/ResoniteModLoader)
 2. Place `EX0Contacts.dll` into your `rml_mods` folder
 
-Settings appear under **EX0Contacts** in the mod settings panel.
+Settings appear under **EX0Contacts** in the [mod settings panel](https://github.com/badhaloninja/ResoniteModSettings).
